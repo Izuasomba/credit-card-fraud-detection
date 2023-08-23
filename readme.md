@@ -15,7 +15,7 @@ Clone this repository:
 
 bash
 Copy code
-**git clone https://github.com/izuasomba/credit-card-fraud-detection.gi**t
+**git clone https://github.com/izuasomba/credit-card-fraud-detection.git**
 **cd credit-card-fraud-detection**
 Download the dataset from the provided link and place it in the data/ directory.
 
